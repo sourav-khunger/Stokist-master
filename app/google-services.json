@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216560807426",
+    "firebase_url": "https://zxingbar.firebaseio.com",
+    "project_id": "zxingbar",
+    "storage_bucket": "zxingbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216560807426:android:006382fa38fd0372",
+        "android_client_info": {
+          "package_name": "com.doozycod.doozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216560807426-e77282asqdj1hffbvoe0iesqrag5cois.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doozycod.doozy",
+            "certificate_hash": "7aa22752a6c6235e5de7d7747453920d5b680952"
+          }
+        },
+        {
+          "client_id": "216560807426-6q8rcpqqov5fhbksetc7t5nnfm6a9vje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsMd2mBwxmJP5X7GkvNRUa_1FUDZnyx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216560807426-6q8rcpqqov5fhbksetc7t5nnfm6a9vje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

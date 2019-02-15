@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stokist</string>
+    <string name="scan_now_Btn">Scan Now</string>
+    <string name="scan_now">Scan</string>
+    <string name="discover">Discover</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="product_info">Product Details</string>
+    <string name="product_name">Product Name</string>
+    <string name="pyatmmall">pyatmmall</string>
+    <string name="sample_img">sample_img</string>
+    <string name="go_to_store">Go to Store</string>
+    <string name="fav_btn">Favorites</string>
+    <string name="product_history">Product History</string>
+    <string name="favorites_strg">Favorites</string>
+</resources>
